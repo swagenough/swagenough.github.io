@@ -13,7 +13,7 @@ Below are the qualitative examples of successful and failed single-pass inferenc
 
 The following figure demonstrates how each model handled a scale-fixed calculation requiring division and percentage conversion. 
 
-![Figure 1: Four-Model Architecture Comparison](/assets/images/cot_pot_2.jpg)
+![Figure 1: Four-Model Architecture Comparison](/assets/images/cot_pot_2.png)
 
 ### Behavior Breakdown
 
