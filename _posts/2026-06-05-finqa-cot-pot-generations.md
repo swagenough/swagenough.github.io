@@ -13,10 +13,6 @@ Below are the qualitative examples of successful and failed single-pass inferenc
 
 The following figure demonstrates how each model handled a scale-fixed calculation requiring division and percentage conversion. 
 
-**Shared Input**
-* **Question:** What percentage of total facilities, measured in square feet, are leased?
-* **Ground Truth:** 0.14464 (14.46%)
-
 ![Figure 1: Four-Model Architecture Comparison](/assets/images/cot_pot_2.jpg)
 
 ### Behavior Breakdown
