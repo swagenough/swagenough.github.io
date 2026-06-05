@@ -22,4 +22,3 @@ The following figure demonstrates how each model handled a scale-fixed calculati
 * **Phi-3.8B:** The model successfully reasons through the math and arrives at the correct numerical answer. However, it outputs a natural-language derivation rather than the requested Program-of-Thought format, leading to a complete failure in the automated code extraction step.
 
 ---
-*(Note: Additional generation logs and statistics regarding failure patterns will be added to this repository in upcoming updates.)*
